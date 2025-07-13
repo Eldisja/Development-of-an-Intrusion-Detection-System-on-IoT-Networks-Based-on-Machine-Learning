@@ -1,4 +1,4 @@
-# Development of an Intrusion Detection System on Internet of Things Networks Based on Machine Learning
+# Development of an IDS on IoT Networks Based on Machine Learning
 
 This project presents the development of an Intrusion Detection System (IDS) for Internet of Things (IoT) networks using three different machine learning models: **XGBoost**, **FastAI**, and **TabNet**. The models are evaluated on three publicly available datasets: **RT IoT 2022**, **CIC IoT 2023**, and **CIC IoT DIAD**.
 
